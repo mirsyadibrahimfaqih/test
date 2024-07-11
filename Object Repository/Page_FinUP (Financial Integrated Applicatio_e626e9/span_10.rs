@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_10</name>
+   <tag></tag>
+   <elementGuidId>2e6aad63-f934-4dd4-818f-9cb8694e4c8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[21]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f6e6d59-4e68-430f-9b3b-52eac7a3e8ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>70f1285c-efe9-4a32-af7b-72f3b82b6052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element ng-tns-c83-28 ng-star-inserted</value>
+      <webElementGuid>5644ea5b-ffda-44ef-a588-99446c2467e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>5bd86f3b-a1b7-4d97-a692-b912f9a12499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-6 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col&quot;]/p-calendar[@class=&quot;p-element p-inputwrapper calendar-custom ng-tns-c83-28 ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/span[@class=&quot;ng-tns-c83-28 p-calendar p-calendar-w-btn&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c83-28 p-datepicker p-component ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group-container ng-tns-c83-28 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group ng-tns-c83-28 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar-container ng-tns-c83-28 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-calendar ng-tns-c83-28&quot;]/tbody[@class=&quot;ng-tns-c83-28&quot;]/tr[@class=&quot;ng-tns-c83-28 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c83-28 ng-star-inserted&quot;]/span[@class=&quot;p-ripple p-element ng-tns-c83-28 ng-star-inserted&quot;]</value>
+      <webElementGuid>22b6827e-e2ad-46da-bf0d-333c1f99a975</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[21]</value>
+      <webElementGuid>3da9f16f-9831-48ae-97f3-f0f1598a6da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::span[22]</value>
+      <webElementGuid>1e8f05e2-eead-42fe-9cab-ee9108cda468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nilai Kontrak (Rp)'])[1]/preceding::span[50]</value>
+      <webElementGuid>cfa7c637-6806-42c8-89ed-e3c4390b711a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mata Uang'])[1]/preceding::span[51]</value>
+      <webElementGuid>c5570803-3cd9-4459-a556-da13102fa8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10']/parent::*</value>
+      <webElementGuid>c0fc5372-e67f-40b6-b3ef-130601cd6d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/span</value>
+      <webElementGuid>449e059c-934a-44f9-b54d-d65fe91c69b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '10' or . = '10')]</value>
+      <webElementGuid>a43683a6-9f98-4b15-8ead-95b699ef2bf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

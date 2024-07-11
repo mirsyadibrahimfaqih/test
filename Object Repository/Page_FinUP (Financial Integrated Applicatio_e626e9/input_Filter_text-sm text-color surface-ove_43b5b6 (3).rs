@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Filter_text-sm text-color surface-ove_43b5b6 (3)</name>
+   <tag></tag>
+   <elementGuidId>e00bf47b-2d2e-45b7-a798-65996c13c2ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[31]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f938f080-135c-43fa-88f2-31cef0de4754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fbe3d3df-49d6-4592-9b0a-e9ba962f2192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>isi dengan No PO...</value>
+      <webElementGuid>84db019a-a5dd-4967-a71e-1acb36877719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-color surface-overlay p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-14rem h-custom -ml-4</value>
+      <webElementGuid>4c351441-6626-4574-9983-efa36d994738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_49&quot;)/div[@class=&quot;p-datatable-header ng-star-inserted&quot;]/div[@class=&quot;flex flex-column md:flex-row md:align-items-center justify-content-between ng-star-inserted&quot;]/div[@class=&quot;flex md:align-items-center justify-content-end&quot;]/span[@class=&quot;block mt-2 md:mt-0 p-input-icon-left&quot;]/input[@class=&quot;text-sm text-color surface-overlay p-2 border-1 border-solid border-500 appearance-none outline-none focus:border-primary w-14rem h-custom -ml-4&quot;]</value>
+      <webElementGuid>357d4f9e-cf74-4c00-80c1-ebb3a356a80d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[31]</value>
+      <webElementGuid>ece28bc2-390a-4000-94c9-9dc099c9037f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_49']/div/div/div[2]/span/input</value>
+      <webElementGuid>a2cf7867-4fde-4717-9dab-98cd6ac3eca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/input</value>
+      <webElementGuid>0e437285-c075-45be-b502-6366cef109d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'isi dengan No PO...']</value>
+      <webElementGuid>7826c0ee-5da0-4b10-a5ca-75cb7bc3b829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

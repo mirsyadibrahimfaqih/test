@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_USD - Nama United States Dollar_nilai</name>
+   <tag></tag>
+   <elementGuidId>c13fea07-8dd3-483c-8ea2-2da84e185ef9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p-inputnumber.p-element.p-inputwrapper.sm-input-number.ml-2.ng-untouched.ng-pristine.ng-valid.p-inputwrapper-focus > span.p-inputnumber.p-component > #nilai</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='nilai'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2438f5a9-6910-476a-8682-49a48d03c63c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>decimal</value>
+      <webElementGuid>eb7e2394-cfb4-418b-8d56-8f6655db03dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-element p-inputnumber-input</value>
+      <webElementGuid>69339fdf-379b-493e-97c5-7963c38f0b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nilai</value>
+      <webElementGuid>cb6e68ea-6e69-4902-af2e-153cf5220baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-payunggw-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-12 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col-2 -ml-1&quot;]/p-inputnumber[@class=&quot;p-element p-inputwrapper sm-input-number ml-2 ng-untouched ng-pristine ng-valid p-inputwrapper-focus&quot;]/span[@class=&quot;p-inputnumber p-component&quot;]/input[@id=&quot;nilai&quot;]</value>
+      <webElementGuid>f1ca8389-aff8-4ea7-b878-c0fe81bab57f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='nilai'])[2]</value>
+      <webElementGuid>b1f50428-cb42-4336-9b51-de2dbcd61679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p-inputnumber/span/input</value>
+      <webElementGuid>1c36f297-74d9-41e1-b553-05782d2b613a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'nilai']</value>
+      <webElementGuid>848d54c6-8be4-4191-90e9-e82ef454d752</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Total Harga_integeronly (2)</name>
+   <tag></tag>
+   <elementGuidId>43047d2e-e278-4b0b-95dd-b559fe9a156f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#integeronly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='integeronly']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>76bd1ac6-35e3-4bd4-b77f-067360d88a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>decimal</value>
+      <webElementGuid>f38d54be-80c1-46be-9967-1d5dfc9a2baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-element p-inputnumber-input</value>
+      <webElementGuid>02a6378c-ee2b-491c-9427-d60853e97ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>integeronly</value>
+      <webElementGuid>70a95e03-df93-4d3c-8dc7-c227557e802e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-noncon-formgw[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;grid -mx-1&quot;]/div[@class=&quot;col-5 px-1&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col&quot;]/p-inputnumber[@class=&quot;p-element p-inputwrapper md:col-12 full-input-number ng-untouched ng-pristine ng-valid&quot;]/span[@class=&quot;p-inputnumber p-component&quot;]/input[@id=&quot;integeronly&quot;]</value>
+      <webElementGuid>726aa63c-b687-4a0b-92e4-d79cacc64a3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='integeronly']</value>
+      <webElementGuid>17fddab6-c5aa-462e-9450-6fbea8565acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-inputnumber/span/input</value>
+      <webElementGuid>0a771c2d-cdc7-4520-b4ac-50f1a9b40710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'integeronly']</value>
+      <webElementGuid>0327affd-f1fe-4b20-af37-0608a76f0cc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

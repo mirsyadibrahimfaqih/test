@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nilai PO_p-inputtext p-component p-el_bff212 (4)</name>
+   <tag></tag>
+   <elementGuidId>8ab5b3a4-1f30-4fb6-9776-18196ebc8855</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nilaiPo > span.p-inputnumber.p-component > input.p-inputtext.p-component.p-element.p-inputnumber-input.p-filled</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-inputnumber[@id='nilaiPo']/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>818774f4-33d6-4755-8722-a5ae364c65d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>decimal</value>
+      <webElementGuid>e0cc17fd-f61c-4aec-a084-c805aeb554c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-element p-inputnumber-input p-filled</value>
+      <webElementGuid>077586ea-3cfa-4146-9cbc-506ae4f46bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nilaiPo&quot;)/span[@class=&quot;p-inputnumber p-component&quot;]/input[@class=&quot;p-inputtext p-component p-element p-inputnumber-input p-filled&quot;]</value>
+      <webElementGuid>e88232c2-8997-48fd-9994-38993a9e17a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-inputnumber[@id='nilaiPo']/span/input</value>
+      <webElementGuid>82ab2cf2-5a87-4165-b901-ab3e3b0ed65e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p-inputnumber/span/input</value>
+      <webElementGuid>951acec9-421f-4048-b5bf-dcd7cb279a73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

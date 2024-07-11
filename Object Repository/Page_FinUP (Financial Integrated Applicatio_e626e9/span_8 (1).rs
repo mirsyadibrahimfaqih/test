@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_8 (1)</name>
+   <tag></tag>
+   <elementGuidId>8560c020-f44a-4f12-bff6-ca18863f713b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-calendar[@id='retensiDate']/span/div/div/div/div[2]/table/tbody/tr[2]/td[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>040d7f57-5a30-4f58-b1a6-6cfcbb3efbb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9ed0bce1-a0a2-4dd7-a959-ff7d57bc4af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element ng-tns-c83-30 ng-star-inserted</value>
+      <webElementGuid>1abcd3a5-27af-4eee-9ca7-cd4618cdb48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>5e878cd2-c815-4240-a6f0-f0e5638d08ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;retensiDate&quot;)/span[@class=&quot;ng-tns-c83-30 p-calendar p-calendar-w-btn&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c83-30 p-datepicker p-component ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group-container ng-tns-c83-30 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group ng-tns-c83-30 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar-container ng-tns-c83-30 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-calendar ng-tns-c83-30&quot;]/tbody[@class=&quot;ng-tns-c83-30&quot;]/tr[@class=&quot;ng-tns-c83-30 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c83-30 ng-star-inserted&quot;]/span[@class=&quot;p-ripple p-element ng-tns-c83-30 ng-star-inserted&quot;]</value>
+      <webElementGuid>597865ce-addf-4cc6-95d0-7ccd5bec8841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-calendar[@id='retensiDate']/span/div/div/div/div[2]/table/tbody/tr[2]/td[2]/span</value>
+      <webElementGuid>3b06cc49-4457-430f-9f1e-5ef502452367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::span[17]</value>
+      <webElementGuid>3a375509-51de-4837-a033-bd78060fde06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::span[18]</value>
+      <webElementGuid>7b08bd49-246f-489e-8256-468a4d205a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Garansi'])[1]/preceding::span[54]</value>
+      <webElementGuid>098bb513-7aeb-4b1e-963e-2905cc13cfc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satuan'])[1]/preceding::span[54]</value>
+      <webElementGuid>de3498fb-2706-481e-b53b-29e5692d41c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='8']/parent::*</value>
+      <webElementGuid>92a8d4a1-4dcc-47fd-a560-77a900f6964f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/span</value>
+      <webElementGuid>18b15983-267b-455c-ac3b-f0e947349b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '8' or . = '8')]</value>
+      <webElementGuid>9e18b4c5-0e7b-4447-8f09-9887f7009a4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

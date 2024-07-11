@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sa_p-ink p-ink-active_1</name>
+   <tag></tag>
+   <elementGuidId>e7bf6221-ae8a-490a-81c8-8f2f59d6c06a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-ink.p-ink-active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[2]/td[5]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa266d2b-4fa2-4d02-a0b3-8afdceb51625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ink p-ink-active</value>
+      <webElementGuid>56b2e6cd-5f35-457d-a5bd-01248994a8fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c83-36 p-datepicker p-component ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group-container ng-tns-c83-36 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-group ng-tns-c83-36 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar-container ng-tns-c83-36 ng-star-inserted&quot;]/table[@class=&quot;p-datepicker-calendar ng-tns-c83-36&quot;]/tbody[@class=&quot;ng-tns-c83-36&quot;]/tr[@class=&quot;ng-tns-c83-36 ng-star-inserted&quot;]/td[@class=&quot;ng-tns-c83-36 p-datepicker-today ng-star-inserted&quot;]/span[@class=&quot;p-ripple p-element ng-tns-c83-36 ng-star-inserted&quot;]/span[@class=&quot;p-ink p-ink-active&quot;]</value>
+      <webElementGuid>597be540-82cd-4ef0-ad75-405f25855e89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/span/span</value>
+      <webElementGuid>68d8d50b-968c-46c9-a9b1-b805f39567b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

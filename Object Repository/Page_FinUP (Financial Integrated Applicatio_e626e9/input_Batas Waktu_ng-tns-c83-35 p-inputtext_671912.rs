@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Batas Waktu_ng-tns-c83-35 p-inputtext_671912</name>
+   <tag></tag>
+   <elementGuidId>cab518a4-aa72-4025-b386-7830250b621e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ng-tns-c83-35.p-inputtext.p-component.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[33]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eca6e655-a491-44a6-9b0b-85e7d9408fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>54ca258b-b64b-4302-9fd1-15c0fae68f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>7a88897b-346b-4a38-9eab-2f8023609943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c83-35 p-inputtext p-component ng-star-inserted</value>
+      <webElementGuid>4a3bc224-b965-4b7c-aabd-100402d2feb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-noncon-formgw[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-noncon-detil-listgw[1]/jhi-noncon-detil-formgw[1]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/p-dialog[@class=&quot;p-element ng-tns-c110-31 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-31 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-31 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-31 p-dialog-content&quot;]/div[@class=&quot;grid -mx-1 ng-star-inserted&quot;]/div[@class=&quot;col-12 px-1&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1 col-3&quot;]/p-calendar[@class=&quot;p-element p-inputwrapper calendar-custom ng-tns-c83-35 ng-untouched ng-pristine ng-valid ng-star-inserted p-inputwrapper-focus&quot;]/span[@class=&quot;ng-tns-c83-35 p-calendar p-calendar-w-btn p-focus&quot;]/input[@class=&quot;ng-tns-c83-35 p-inputtext p-component ng-star-inserted&quot;]</value>
+      <webElementGuid>78792927-d379-48c4-9387-7ea1582de9ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[33]</value>
+      <webElementGuid>d81d876d-f81e-48da-8604-df5e99a73776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/p-calendar/span/input</value>
+      <webElementGuid>bd394b69-bfae-4725-8191-c5f017204fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>d0be7103-92b3-4b56-b479-b87f69d00cd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

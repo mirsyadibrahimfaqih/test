@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pembebanan_p-button-icon pi pi-search</name>
+   <tag></tag>
+   <elementGuidId>6170ad1d-aea9-41cd-8263-56ea08ce65f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39a4f316-513e-4cc2-98f1-bc54388e3dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-icon pi pi-search</value>
+      <webElementGuid>7bb1de7c-9b61-4856-8163-57c155644bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d3325aa6-7a1e-4510-ae16-c92859203d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/jhi-root[1]/jhi-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;layout-container layout-static p-ripple-disabled layout-light&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content&quot;]/div[@class=&quot;layout-content-inner&quot;]/jhi-noncon-formgw[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/jhi-noncon-detil-listgw[1]/jhi-noncon-detil-formgw[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/p-dialog[@class=&quot;p-element ng-tns-c110-31 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-31 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-31 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-31 p-dialog-content&quot;]/div[@class=&quot;grid -mx-1 ng-star-inserted&quot;]/div[@class=&quot;col-12 px-1 -mt-6&quot;]/div[@class=&quot;field grid -mx-1&quot;]/div[@class=&quot;px-1&quot;]/button[@class=&quot;p-element p-button-primary p-button-outlined custom-btn p-button p-component p-button-icon-only&quot;]/span[@class=&quot;p-button-icon pi pi-search&quot;]</value>
+      <webElementGuid>6ef50b7e-7c19-4fe9-be72-8db68d731a33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button/span</value>
+      <webElementGuid>71c37a69-75d0-46ac-a0fc-f90b8b91b750</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

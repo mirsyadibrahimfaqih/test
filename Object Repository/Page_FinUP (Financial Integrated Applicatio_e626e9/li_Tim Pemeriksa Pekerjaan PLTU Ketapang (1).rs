@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Tim Pemeriksa Pekerjaan PLTU Ketapang (1)</name>
+   <tag></tag>
+   <elementGuidId>370e6d43-80bd-44c0-b79f-a5f1277c4718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id=''])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3cec5b9f-57ca-4843-bdb9-9f2120c867f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>5a374ba2-2ae5-4122-beaf-7f51efed7a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-element p-dropdown-item</value>
+      <webElementGuid>e90dce16-98b3-4e2a-9ab5-748a59aa4f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tim Pemeriksa Pekerjaan PLTU Ketapang</value>
+      <webElementGuid>0b5dfabb-2344-46ee-9d3a-9dad9a8be907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1cd3075c-373a-4e0a-a0a9-e862762d9568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tim Pemeriksa Pekerjaan PLTU Ketapang</value>
+      <webElementGuid>59b1c730-000d-447e-bb22-932cd5ed8b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_26_list&quot;)/p-dropdownitem[@class=&quot;p-element ng-tns-c70-34 ng-star-inserted&quot;]/li[@class=&quot;p-ripple p-element p-dropdown-item&quot;]</value>
+      <webElementGuid>46ff675c-ffc6-47e6-a81c-e8a9544e4df1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//li[@id=''])[3]</value>
+      <webElementGuid>e3d81ca1-e1d1-443b-ba51-6f0be60f3649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='pr_id_26_list']/p-dropdownitem[4]/li</value>
+      <webElementGuid>e2ff01c0-3410-4359-86a2-f7d04741d955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Pemeriksa Pekerjaan PLTU Tembilahan'])[1]/following::li[1]</value>
+      <webElementGuid>e65ac7e6-74e8-447c-a894-5817267f2224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Pemeriksa Penyelesaian Pekerjaan'])[1]/following::li[2]</value>
+      <webElementGuid>87f6c955-0081-426c-bc01-020387910ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIM PEMERIKSA JASA V3'])[1]/preceding::li[1]</value>
+      <webElementGuid>614fe7f2-5706-4c41-ae31-f00fea80ed0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdownitem[4]/li</value>
+      <webElementGuid>731cb5ae-cd9a-48f7-b840-dff9a821f4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Tim Pemeriksa Pekerjaan PLTU Ketapang' or . = 'Tim Pemeriksa Pekerjaan PLTU Ketapang')]</value>
+      <webElementGuid>b15834a4-938d-4f0c-b22c-0a0938bf111a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
